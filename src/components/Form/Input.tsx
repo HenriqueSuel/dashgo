@@ -24,4 +24,4 @@ export function Input({ name, label, ...rest }: InputProps) {
       />
     </FormControl>
   );
-} 
+}
